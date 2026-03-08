@@ -40,7 +40,7 @@ export default function SignupForm() {
                 회원가입 성공!
               </h3>
               <p className="text-lg text-muted-foreground">
-                이메일로 전송된 인증 링크를 확인해주세요.
+                가입하신 계정 정보로 로그인을 진행해주세요.
               </p>
             </div>
           </div>
