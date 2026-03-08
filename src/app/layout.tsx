@@ -28,7 +28,7 @@ const playfair = Playfair_Display({
 });
 
 export const metadata: Metadata = {
-  title: "ReserveHub - 공간 예약 플랫폼",
+  title: "Space Hub - 공간 예약 플랫폼",
   description: "스터디룸, 회의실, 세미나실을 간편하게 예약하세요",
 };
 

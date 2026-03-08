@@ -107,7 +107,7 @@ export function Header() {
                 </div>
               </div>
               <span className="text-2xl font-bold bg-gradient-to-r from-primary via-primary/90 to-primary/70 bg-clip-text text-transparent tracking-tight">
-                Young King Space
+                Space Hub
               </span>
             </Link>
           </div>

@@ -14,7 +14,7 @@ export default function SignupPage() {
               회원가입
             </h1>
             <p className="text-xl md:text-2xl opacity-90 font-light">
-              ReserveHub에 오신 것을 환영합니다
+              Space Hub에 오신 것을 환영합니다
             </p>
           </div>
         </div>

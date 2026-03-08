@@ -113,7 +113,7 @@ export default async function Home() {
               왜 저희를 선택해야 할까요?
             </h2>
             <p className="text-xl text-muted-foreground max-w-2xl mx-auto font-[family-name:var(--font-noto-sans-kr)]">
-              ReserveHub만의 특별한 장점을 경험해보세요
+              Space Hub만의 특별한 장점을 경험해보세요
             </p>
           </div>
           
